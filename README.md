@@ -9,7 +9,7 @@ Outside of coding, you'll find me at the gym or on the basketball court.
 - 🎓 Still a student, always learning.
 - 🏋️ Gym and basketball fan.
 - 💻 Main stack: **C#**, **ASP.NET Core**, **Entity Framework**
-- 📚 Projects: [GymHub](#), [RecipeHub](#)
+- 📚 Projects: [GymHub](https://github.com/SlaviB02/GymHubProject), [RecipeHub](https://github.com/SlaviB02/RecipeHub)
 - 💡 I love solving problems and building efficient solutions.
 
 ## 🚀 Projects
