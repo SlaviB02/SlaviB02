@@ -1,16 +1,42 @@
-## Hi there 👋
+# Slavi Bozhilov
 
-<!--
-**SlaviB02/SlaviB02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Slavi—a student passionate about software development, problem-solving, and building useful tools!  
+I specialize in C#, ASP.NET, and Entity Framework, and I've created projects like GymHub and RecipeHub.  
+Outside of coding, you'll find me at the gym or on the basketball court.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Still a student, always learning.
+- 🏋️ Gym and basketball fan.
+- 💻 Main stack: **C#**, **ASP.NET Core**, **Entity Framework**
+- 📚 Projects: [GymHub](#), [RecipeHub](#)
+- 💡 I love solving problems and building efficient solutions.
+
+## 🚀 Projects
+
+### GymHub
+A web application designed for fitness enthusiasts to find the best gyms around them and get memberships.
+
+### RecipeHub
+A platform to discover, share, and organize recipes with a clean and intuitive interface.
+
+## 🌱 Skills
+
+- **Languages:** C#, SQL, HTML, CSS, JavaScript  
+- **Frameworks:** ASP.NET Core, Entity Framework  
+- **Tools:** Visual Studio, Git, GitHub
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/slavi-bozhilov-14520235a/)
+
+## 🏀 Interests
+
+When I’m not coding, you'll find me:
+- At the gym
+- Playing basketball
+- Learning new tech
+
+---
+
+Feel free to check out my projects or connect with me!
